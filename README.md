@@ -86,7 +86,7 @@ My ultimate aim is to become a skilled **web applications developer** who builds
 
 <p align="center">
   <a href="mailto:abdelrahmandawoud11@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/abdulrahman-dawoud-978574255/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/abdulrahman-dawoud-978574255/]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
