@@ -85,9 +85,8 @@ My ultimate aim is to become a skilled **web applications developer** who builds
 ### 📣 Let’s Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:abdelrahmandawoud11@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/abdulrahman-dawoud-978574255/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
