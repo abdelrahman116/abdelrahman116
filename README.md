@@ -1,7 +1,7 @@
-<!-- GitHub Profile README Template for Abdelrahman -->
+<!-- GitHub Profile README for Abdelrahman Dawoud -->
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A Front-End Developer | ALX Pro Learner | Passionate about building impactful web apps</h3>
+<h3 align="center">Front-End Developer | ALX Pro Learner | Passionate about Crafting Interactive Web Apps</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
@@ -11,13 +11,11 @@
 
 ### 🚀 About Me
 
-<p>
-I'm a passionate front-end developer currently enrolled in the <strong>ALX Pro Front-End Developer Program</strong>. I started this journey because software engineering reflects my core character: <em>logical thinking, structured problem-solving, and a deep desire to simplify and improve people's lives.</em>
-</p>
+I'm a **Front-End Developer** with a background in **Mechatronics Engineering** and a passion for building clean, responsive, and user-friendly web applications.  
+Currently learning through the **ALX Pro Front-End Developer Program**, where I’m sharpening my React, Tailwind, and modern web development skills.  
 
-<p>
-What truly drives me is building <strong>web applications</strong> that solve real-world problems. I believe in making a difference by combining design, code, and functionality to create powerful digital experiences.
-</p>
+What I enjoy most is turning ideas into real, functional apps — from concept to deployment.  
+I believe good code isn’t just logic — it’s a way to **improve lives** and make the web more accessible and meaningful.
 
 ---
 
@@ -28,56 +26,51 @@ What truly drives me is building <strong>web applications</strong> that solve re
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently building: <strong>[Project Name – Short Description]</strong>
-- 💡 I’m focusing on JavaScript, DOM manipulation, and responsive design
-- 🌱 Currently learning: React + Web Performance Optimization
-- 🧠 Interested in: Building intuitive and fast web interfaces
-- 📬 Reach me: [Email] • [LinkedIn] • [Portfolio]
+- 💻 Currently building: **Weather Dashboard App** — a clean weather app using React, Tailwind, and OpenCage API  
+- 🎯 Focused on: Front-End frameworks (React, Tailwind, Vite) & API integration  
+- 🌱 Learning Next: Backend fundamentals (Node.js + Express)  
+- 🧠 Interests: Web performance, UI/UX design, and AI integration in apps  
+- 📬 Reach me at: [abdelrahmandawoud11@gmail.com](mailto:abdelrahmandawoud11@gmail.com)
 
 ---
 
 ### 📌 Featured Projects
 
-Here are some of the web apps I’ve built so far:
-
 | Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **Responsive Portfolio** | A personal portfolio site showcasing my work | HTML, CSS, JS | [Live Demo](#) |
-| **Task Tracker App** | A to-do app with CRUD functionality | JavaScript, DOM | [Live Demo](#) |
-| **Weather Forecast UI** | Fetches live weather using API | HTML, CSS, JS | [Live Demo](#) |
+|----------|--------------|-------------|------|
+| **Weather Dashboard App** | Displays real-time weather & 5-day forecasts using APIs | React, Tailwind, OpenCage, Weather API | [Live Demo](https://capstone-weather-app.netlify.app/) |
+| **Task Tracker** | A to-do app with local storage persistence | JavaScript, DOM | [On Progress] |
 
-> ✨ *More coming soon. I'm constantly building and refining!*
+> ✨ *Always learning. Always building.*
 
 ---
 
 ### 🧭 My Vision
 
-My ultimate aim is to become a skilled **web applications developer** who builds accessible, responsive, and smart digital products. I dream of contributing to solutions that:
-- Empower others
-- Solve local and global problems
-- Are scalable, elegant, and user-friendly
+To grow into a **Full-Stack Developer** capable of building complete, scalable, and meaningful applications —  
+while living a life centered on learning, purpose, and helping others through technology.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman116&theme=react" alt="streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman116&show_icons=true&theme=react" alt="stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman116&layout=compact&theme=react" alt="languages"/>
 </p>
 
 ---
@@ -91,4 +84,4 @@ My ultimate aim is to become a skilled **web applications developer** who builds
 
 ---
 
-<p align="center"><em>"Code is not just code, it's a superpower to change lives."</em></p>
+<p align="center"><em>"Good code serves people — not just machines."</em></p>
