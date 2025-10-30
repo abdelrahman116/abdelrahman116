@@ -49,9 +49,8 @@ I believe good code isn’t just logic — it’s a way to **improve lives** and
 
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|------|
-| **Weather Dashboard App** | Displays real-time weather & 5-day forecasts using APIs | React, Tailwind, OpenCage, Weather API | <a href="https://capstone-weather-app.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
- 
-| **Task Tracker** | A to-do app with local storage persistence | JavaScript, DOM | [On Progress] |
+| **Weather Dashboard App** | Displays real-time weather & 5-day forecasts using APIs | React, Tailwind, OpenCage, Weather API | [Live Demo 🔗](https://capstone-weather-app.netlify.app/) |
+| **Task Tracker** | A to-do app with local storage persistence | JavaScript, DOM | 🚧 On Progress |
 
 > ✨ *Always learning. Always building.*
 
